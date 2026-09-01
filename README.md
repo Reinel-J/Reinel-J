@@ -34,10 +34,7 @@
 
 ### 📊 Estadísticas de GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Reinel-J&show_icons=true&theme=default" alt="Estadísticas de GitHub" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reinel-J&layout=compact" alt="Lenguajes más usados" height="165"/>
-</p>
+<p align="left"> <img src="https://github-readme-stats-tan-tau-72.vercel.app/api?username=Reinel-J&show_icons=true&theme=default" alt="Estadísticas de GitHub" height="165"/> <img src="https://github-readme-stats-tan-tau-72.vercel.app/api/top-langs/?username=Reinel-J&layout=compact" alt="Lenguajes más usados" height="165"/> </p>
 
 ---
 
